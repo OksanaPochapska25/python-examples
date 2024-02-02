@@ -9,17 +9,19 @@
 
 - example01.py
 
-**This example demonstrates how to convert PDF to Excel using the Aspose.PDF library.
+*This example demonstrates how to convert PDF to Excel using the Aspose.PDF library.*
 
 - example02.py
 
-**This example demonstrates how to convert PDF using plug-ins.
+*This example demonstrates how to convert PDF using plug-ins.*
 
 - example03.py
 
-**This example demonstrates how to convert using Aspose Clouds
+*This example demonstrates how to convert using Aspose Clouds.*
 
 ## See also
 
 https://docs.aspose.com/pdf/python-net/convert-pdf-to-excel/ 
+
+**NOTE! The library allows to convert up to 4 pages for free.**
 
